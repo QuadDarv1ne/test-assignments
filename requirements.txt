@@ -1,0 +1,13 @@
+torch
+tableau-api-lib
+pymongo
+hadoop
+tensorflow
+keras
+numpy
+dask
+flask
+fastapi
+django
+matplotlib
+pillow
